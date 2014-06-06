@@ -1,0 +1,20 @@
+{
+    "name": "famelo/string-score",
+    "description": "Extension to fetch Avatars from different sources",
+    "homepage": "https://github.com/mneuhaus/Famelo-StringScore",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "mneuhaus@famelo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Famelo\\StringScore": "Classes"
+        }
+    }
+}
