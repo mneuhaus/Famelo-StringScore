@@ -4,7 +4,7 @@ namespace Famelo\StringScore;
 /**
  * Scores a string against another string.
  */
-class String {
+class StringScore {
 
 	/**
 	 *
